@@ -56,5 +56,8 @@ TagManager:
   - name: moveobj
     uniqueID: 4084827151
     locked: 0
+  - name: no
+    uniqueID: 3521312641
+    locked: 0
   m_RenderingLayers:
   - Default
