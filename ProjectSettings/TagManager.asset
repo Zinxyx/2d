@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: secret
+    uniqueID: 2240315675
+    locked: 0
+  - name: background
+    uniqueID: 3589362423
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: More
+    uniqueID: 3915993441
+    locked: 0
+  - name: hero
+    uniqueID: 4058868359
+    locked: 0
+  - name: moveobj
+    uniqueID: 4084827151
+    locked: 0
+  m_RenderingLayers:
+  - Default
